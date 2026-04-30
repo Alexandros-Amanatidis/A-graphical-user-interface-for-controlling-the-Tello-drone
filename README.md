@@ -49,6 +49,6 @@ the same folder:
 
 Final_program.py   # Main GUI and drone control program
 best.pt            # Trained YOLO model
-tello-drone.jpg    # Image displayed in the GUI
+tello-drone.png    # Image displayed in the GUI
 
 
