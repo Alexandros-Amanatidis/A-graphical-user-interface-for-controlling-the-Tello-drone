@@ -47,9 +47,9 @@ The trained model (best.pt) is loaded directly by the GUI and used during flight
 For the program to work correctly, the following files must be placed in
 the same folder:
 
-Final_program.py   # Main GUI and drone control program
-best.pt            # Trained YOLO model
-tello-drone.png    # Image displayed in the GUI
+- Final_program.py   # Main GUI and drone control program
+- best.pt            # Trained YOLO model
+- tello-drone.png    # Image displayed in the GUI
 
 !!! All comments in the program are written in Greek.
 
