@@ -51,4 +51,5 @@ Final_program.py   # Main GUI and drone control program
 best.pt            # Trained YOLO model
 tello-drone.png    # Image displayed in the GUI
 
+!!! All comments in the program are written in Greek.
 
